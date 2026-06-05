@@ -2,9 +2,9 @@
 
 <img src="assets/wave-music-logo.jpg" alt="Wave Music Logo" width="180" style="border-radius: 24px;" />
 
-# 🎵 Wave Music
+# Wave Music
 
-### *An Elegant Desktop Music Player — Reimagined*
+### *An Elegant Desktop Music Player — Offline*
 
 **Experience your local music library like never before.**
 
@@ -41,10 +41,6 @@ Whether you're a casual listener or a music enthusiast, Wave delivers a **polish
 [![Download Wave.exe](https://img.shields.io/badge/⬇_Download_Wave.exe-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D4)](https://github.com/rahulloyal/Wave-Music/releases/latest/download/Wave.exe)
 
 </div>
-
-> [!NOTE]
-> After the repository is live, the `Wave.exe` file will be available under **[Releases](https://github.com/rahulloyal/Wave-Music/releases)**. Simply click the download button above or head to the releases page.
-
 ---
 
 ## ✨ Features
